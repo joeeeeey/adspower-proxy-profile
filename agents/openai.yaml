@@ -1,0 +1,4 @@
+interface:
+  display_name: "AdsPower Proxy Profile"
+  short_description: "Prepare a proxy-backed browser profile without leaking its passw"
+  default_prompt: "Use $adspower-proxy-profile to inspect the requested scope and report verified results."
